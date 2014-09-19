@@ -1,0 +1,45 @@
+C:\Users\Eric Liang\Desktop\PassVault\PassVault\bin\Debug\PassVault.exe
+C:\Users\Eric Liang\Desktop\PassVault\PassVault\bin\Debug\PassVault.pdb
+C:\Users\Eric Liang\Desktop\PassVault\PassVault\obj\x86\Debug\PassVault.Properties.Resources.resources
+C:\Users\Eric Liang\Desktop\PassVault\PassVault\obj\x86\Debug\PassVault.csproj.GenerateResource.Cache
+C:\Users\Eric Liang\Desktop\PassVault\PassVault\obj\x86\Debug\PassVault.exe
+C:\Users\Eric Liang\Desktop\PassVault\PassVault\obj\x86\Debug\PassVault.pdb
+C:\Users\Eric Liang\Desktop\PassVault\PassVault\obj\x86\Debug\PassVault.AboutBox1.resources
+C:\Users\Eric Liang\Desktop\PassVault\PassVault\obj\x86\Debug\PassVault.preferencesForm.resources
+C:\Users\Eric Liang\Desktop\PassVault\PassVault\obj\x86\Debug\PassVault.Password_Generator.resources
+C:\Users\Eric Liang\Desktop\PassVault\PassVault\obj\x86\Debug\PassVault.passVaultForm.resources
+C:\Users\Eric Liang\Desktop\PassVault\PassVault\obj\x86\Debug\PassVault.Login.resources
+C:\Users\Eric Liang\Desktop\PassVault\PassVault\obj\x86\Debug\PassVault.SignUpForm.resources
+C:\Users\Eric Liang\Desktop\PassVault\PassVault\obj\x86\Debug\PassVault.ForgotPasswordForm.resources
+C:\Users\Eric Liang\Desktop\PassVault\PassVault\bin\Debug\PassVault.exe.config
+C:\Users\Eric Liang\Desktop\PassVault\PassVault\obj\x86\Debug\PassVault.csprojResolveAssemblyReference.cache
+C:\Users\Eric Liang\Desktop\PassVault Project\PassVault\PassVault\bin\Debug\PassVault.exe.config
+C:\Users\Eric Liang\Desktop\PassVault Project\PassVault\PassVault\obj\x86\Debug\PassVault.exe
+C:\Users\Eric Liang\Desktop\PassVault Project\PassVault\PassVault\obj\x86\Debug\PassVault.pdb
+C:\Users\Eric Liang\Desktop\PassVault FINAL TEST\PassVault\bin\Debug\PassVault.exe.config
+C:\Users\Eric Liang\Desktop\PassVault FINAL TEST\PassVault\obj\x86\Debug\PassVault.exe
+C:\Users\Eric Liang\Desktop\PassVault FINAL TEST\PassVault\obj\x86\Debug\PassVault.pdb
+C:\Users\Eric Liang\Desktop\PassVault FINAL TEST\PassVault\bin\Debug\PassVault.exe
+C:\Users\Eric Liang\Desktop\PassVault FINAL TEST\PassVault\bin\Debug\PassVault.pdb
+C:\Users\Eric Liang\Desktop\PassVault FINAL TEST\PassVault\bin\Debug\System.Data.SQLite.dll
+C:\Users\Eric Liang\Desktop\PassVault FINAL TEST\PassVault\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Eric Liang\Desktop\PassVault FINAL TEST\PassVault\obj\x86\Debug\PassVault.AboutBox1.resources
+C:\Users\Eric Liang\Desktop\PassVault FINAL TEST\PassVault\obj\x86\Debug\PassVault.ForgotPasswordForm.resources
+C:\Users\Eric Liang\Desktop\PassVault FINAL TEST\PassVault\obj\x86\Debug\PassVault.Login.resources
+C:\Users\Eric Liang\Desktop\PassVault FINAL TEST\PassVault\obj\x86\Debug\PassVault.passVaultForm.resources
+C:\Users\Eric Liang\Desktop\PassVault FINAL TEST\PassVault\obj\x86\Debug\PassVault.preferencesForm.resources
+C:\Users\Eric Liang\Desktop\PassVault FINAL TEST\PassVault\obj\x86\Debug\PassVault.Properties.Resources.resources
+C:\Users\Eric Liang\Desktop\PassVault FINAL TEST\PassVault\obj\x86\Debug\PassVault.SignUpForm.resources
+C:\Users\Eric Liang\Desktop\PassVault FINAL TEST\PassVault\obj\x86\Debug\PassVault.csproj.GenerateResource.Cache
+C:\Users\Eric Liang\Desktop\PassVault Project\PassVault\PassVault\bin\Debug\PassVault.exe
+C:\Users\Eric Liang\Desktop\PassVault Project\PassVault\PassVault\bin\Debug\PassVault.pdb
+C:\Users\Eric Liang\Desktop\PassVault Project\PassVault\PassVault\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Eric Liang\Desktop\PassVault Project\PassVault\PassVault\obj\x86\Debug\PassVault.csprojResolveAssemblyReference.cache
+C:\Users\Eric Liang\Desktop\PassVault Project\PassVault\PassVault\obj\x86\Debug\PassVault.AboutBox1.resources
+C:\Users\Eric Liang\Desktop\PassVault Project\PassVault\PassVault\obj\x86\Debug\PassVault.ForgotPasswordForm.resources
+C:\Users\Eric Liang\Desktop\PassVault Project\PassVault\PassVault\obj\x86\Debug\PassVault.Login.resources
+C:\Users\Eric Liang\Desktop\PassVault Project\PassVault\PassVault\obj\x86\Debug\PassVault.passVaultForm.resources
+C:\Users\Eric Liang\Desktop\PassVault Project\PassVault\PassVault\obj\x86\Debug\PassVault.preferencesForm.resources
+C:\Users\Eric Liang\Desktop\PassVault Project\PassVault\PassVault\obj\x86\Debug\PassVault.Properties.Resources.resources
+C:\Users\Eric Liang\Desktop\PassVault Project\PassVault\PassVault\obj\x86\Debug\PassVault.SignUpForm.resources
+C:\Users\Eric Liang\Desktop\PassVault Project\PassVault\PassVault\obj\x86\Debug\PassVault.csproj.GenerateResource.Cache

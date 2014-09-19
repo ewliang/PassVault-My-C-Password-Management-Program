@@ -1,0 +1,182 @@
+/*File: style.css
+ * Created: September 18, 2014  
+ * 
+ * Copyright (c) 2014 Eric Liang http://www.eric-liang.com
+ * 
+ * This file is part of PassVault.
+ * 
+ * PassVault is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ * 
+ * PassVault is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with PassVault.  If not, see <http://www.gnu.org/licenses/>. 
+ */
+
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+
+/* *********************************************************************************************************************
+ * Main container for all
+ */
+.onepcssgrid-1000, .onepcssgrid-1200 {
+	margin: 0 auto;
+	padding: 0 0 0 1%; /* THAT'S THE NAME ;) */
+}
+
+.onepcssgrid-1200 {
+	max-width: 1220px;
+}
+
+.onepcssgrid-1000 {
+	max-width: 1020px;
+}
+
+.onerow {
+	clear: both;
+	padding: 0 10px;
+}
+
+
+/* *********************************************************************************************************************
+ * Common columns definitions
+ */
+.col1, .col2, .col3, .col4, .col5, .col6, .col7, .col8, .col9, .col10, .col11, .col12 {
+	float: left;
+	margin: 0 3% 0 0;
+}
+
+.col1.last, .col2.last, .col3.last, .col4.last, .col5.last, .col6.last, .col7.last, .col8.last, .col9.last, .col10.last, .col11.last, .col12 {
+	margin: 0;
+}
+
+.col1 { width: 5.5%; }
+.col2 { width: 14%; }
+.col3 { width: 22.5%; }
+.col4 { width: 31%; }
+.col5 { width: 39.5%; }
+.col6 { width: 48%; }
+.col7 { width: 56.5%; }
+.col8 { width: 65%; }
+.col9 { width: 73.5%; }
+.col10 { width: 82%; }
+.col11 { width: 90.5%; }
+.col12 { width: 99%; margin: 0; }
+
+.col1 img, .col2 img, .col3 img, .col4 img, .col5 img, .col6 img, .col7 img, .col8 img, .col9 img, .col10 img, .col11 img, .col12 img {
+	width: 100%;
+	height: auto;
+	display: block;
+}
+
+
+/* *********************************************************************************************************************
+ * Disable padding left/right 10px if I'm 1024 or gibber - correct percentage math
+ */
+@media all and (min-width: 1024px) {
+	.onepcssgrid-1000 {
+		max-width: 1000px;
+	}
+
+	.onepcssgrid-1000 .onerow {
+		padding: 0;
+	}
+}
+
+
+/* *********************************************************************************************************************
+ * Small devices
+ */
+@media all and (max-width: 768px) {
+	.onerow {
+	}
+
+	.col1, .col2, .col3, .col4, .col5, .col6, .col7, .col8, .col9, .col10, .col11 {
+		float: none;
+		width: 99%;
+	}
+}
+
+/*CUSTOM STYLES*/
+h1, h2, h3, h4, h5, h6, h7, h8, h9, h10
+{
+	color: #00b4ff;
+	font-size: 18px;
+	font-weight: lighter;
+}
+
+html
+{
+	font-family: 'Open Sans', sans-serif;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+p
+{
+	color: #333;
+	font-size: 14px;
+	line-height: 24px;
+	text-align: left;
+}
+
+ul li
+{
+	color: #00b4ff;
+	text-align: left;
+}
+
+.topicTitle
+{
+	font-size: 24px;
+}
+
+.active
+{
+	color: #fff;
+	background-color: #00b4ff;
+}
+
+nav
+{
+	background-color: #333;
+}
+
+#mainNav
+{
+	background-color: #333;
+}
+
+#mainNav ul li a
+{
+	color: #fff;
+	font-size: 14px;
+	text-decoration: none;
+	float: left;
+	margin: 0;
+	padding: 2% 4%;
+}
+
+#mainNav a:hover
+{
+	background-color: #00b4ff;
+}
+
+#pageTitle
+{
+	font-size: 26px;
+	margin-top: 100px;
+}
+
+#mainFooter
+{
+	padding: 10px 0;
+}
